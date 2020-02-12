@@ -1,0 +1,7 @@
+---
+applications:
+- name: sails01
+  random-route: true
+  path: .
+  buildpack: nodejs_buildpack
+  memory: 128M
