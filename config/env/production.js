@@ -250,7 +250,7 @@ module.exports = {
     ***************************************************************************/
     onlyAllowOrigins: [
 
-      'https://staging.example.com',
+      'https://basicapp-zany-crocodile.cfapps.eu10.hana.ondemand.com/',
     ],
 
 
